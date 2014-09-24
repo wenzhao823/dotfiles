@@ -1,0 +1,3 @@
+supertab.vba: call delete('/home/xutiecheng/.vim/doc/supertab.txt	[[[1')|call delete('/home/xutiecheng/.vim/plugin/supertab.vim	[[[1')
+supertab.vba: call delete('/home/xutiecheng/.vim/doc/supertab.txt	[[[1')|call delete('/home/xutiecheng/.vim/plugin/supertab.vim	[[[1')
+winmanager.vba: call delete('/home/xutiecheng/.vim/doc/winmanager.txt')|call delete('/home/xutiecheng/.vim/plugin/start.gnome')|call delete('/home/xutiecheng/.vim/plugin/start.kde')|call delete('/home/xutiecheng/.vim/plugin/winfileexplorer.vim')|call delete('/home/xutiecheng/.vim/plugin/winmanager.vim')|call delete('/home/xutiecheng/.vim/plugin/wintagexplorer.vim')
