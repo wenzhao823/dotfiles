@@ -1,4 +1,4 @@
-" common configuration
+set nocp
 let g:wombat_termcolors=256
 set t_Co=256
 colorscheme wombat256 
@@ -17,8 +17,6 @@ autocmd BufWritePre * let &backupext = strftime(".bak.%Y%m%d-%H:%M:%S")
 filetype on
 filetype plugin on
 filetype plugin indent on
-" set mouse=a  " always use mouse
-set nocp
 
 set expandtab
 set shiftwidth=4
@@ -26,11 +24,11 @@ set tabstop=4
 set softtabstop=4
 set smartindent
 set autoindent
+" set mouse=a  " always use mouse
 
 set incsearch
 set hlsearch
 set nowrapscan
-set nocp
 set iskeyword+=_,$,@  "带有这些符号的单词不要被换行分割
 set linespace=0    " 字符间插入的像素行数目
 set cmdheight=1    " 命令行（在状态行下）的高度，默认为1，这里是2
