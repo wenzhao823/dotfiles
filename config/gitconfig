@@ -21,3 +21,5 @@
 	diff = auto
 [diff]
 	tool = vimdiff2
+[push]
+	default = simple
