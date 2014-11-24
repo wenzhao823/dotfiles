@@ -24,7 +24,7 @@ set tabstop=4
 set softtabstop=4
 set smartindent
 set autoindent
-" set mouse=a  " always use mouse
+set mouse=  "a always use mouse
 
 set incsearch
 set hlsearch

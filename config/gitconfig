@@ -17,6 +17,7 @@
 	default = simple
 [core]
 	editor = vim
+    filemode = false
 [color]
 	diff = auto
 [diff]
