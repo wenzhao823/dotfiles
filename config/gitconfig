@@ -14,7 +14,6 @@
 	name = tangyonggang
 	email = tangyonggang@360.cn
 [push]
-	default = simple
 [core]
 	editor = vim
     filemode = false
